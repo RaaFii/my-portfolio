@@ -1,0 +1,27 @@
+body{ 
+    font-family: 'Pushster', cursive;
+    color: black;
+    background:white ;
+    margin: 0px;
+    padding-left: 20px;
+}
+.heading{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.one{
+    width: 50%;
+}
+.one img{
+    padding-left: 30px;
+    width: 50%;
+}
+.hireme{
+    text-decoration: none;
+    background-image: linear-gradient(orange, black);
+    color: white;
+    border-radius: 2px;
+    padding: 10px 40px;
+}
